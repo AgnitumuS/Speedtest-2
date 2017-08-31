@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dim_vel_25">25sp</dimen>
+    <dimen name="dim_18">18sp</dimen>
+    <dimen name="dim_16">16sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>

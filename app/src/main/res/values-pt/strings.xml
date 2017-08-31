@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Speedtest MD Brasil</string>
+    <string name="str_mbps">mbps</string>
+    <string name="str_sinal">Sinal:</string>
+    <string name="str_ms">ms</string>
+    <string name="str_rede">Rede:</string>
+    <string name="str_iniciar">Iniciar</string>
+    <string name="str_reportar">Reportar</string>
+    <string name="title_activity_reportar">ReportarActivity</string>
+    <string name="str_download">Download:</string>
+    <string name="str_upload">Upload:</string>
+    <string name="str_ip">Endereço IP:</string>
+</resources>
+
